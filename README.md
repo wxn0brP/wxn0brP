@@ -1,10 +1,24 @@
-- 👋 Hi, I’m _@wxn0brP_
-- 👀 I’m interested in _null_
-- 🌱 I’m currently learning  _null_
-- 💞️ I’m looking to collaborate on _null_
-- 📫 How to reach me _null_
+# Hi there, I'm @wxn0brP! 👋
 
-<!---
-wxn0brP/wxn0brP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub followers](https://img.shields.io/github/followers/wxn0brP)
+![GitHub stars](https://img.shields.io/github/stars/wxn0brP)
+
+## 🚀 About Me
+Hobbyist developer focused on building **lightweight, modular tools** with a preference for TypeScript/JavaScript. 
+I create tools that are **simple, efficient, and give control back to the developer.**
+
+## 🛠️ Core Focus Areas
+- **Embedded & server databases**
+- **Modular web and backend frameworks**
+- **Lightweight developer utilities**
+
+## 🔹 Selected Projects
+
+- **[ValtheraDB](https://github.com/wxn0brP/ValtheraDB)** – Lightweight file-based DBMS with CRUD and custom queries
+- **[VQL](https://github.com/wxn0brP/VQL)** – Api standard & Query Language integrated into ValtheraDB
+- **[suglite](https://github.com/wxn0brP/suglite)** – Lightweight process watcher with auto restarts  
+
+## 📈 GitHub Stats
+![wxn0brP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wxn0brP&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxn0brP&layout=compact&theme=dark)
