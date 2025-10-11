@@ -1,6 +1,5 @@
 # Hi there, I'm @wxn0brP! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/wxn0brP)
 ![GitHub stars](https://img.shields.io/github/stars/wxn0brP)
 
 ## 🚀 About Me
@@ -10,15 +9,13 @@ I create tools that are **simple, efficient, and give control back to the develo
 ## 🛠️ Core Focus Areas
 - **Embedded & server databases**
 - **Modular web and backend frameworks**
-- **Lightweight developer utilities**
-
-## 🔹 Selected Projects
-
-- **[ValtheraDB](https://github.com/wxn0brP/ValtheraDB)** – Lightweight file-based DBMS with CRUD and custom queries
-- **[VQL](https://github.com/wxn0brP/VQL)** – Api standard & Query Language integrated into ValtheraDB
-- **[suglite](https://github.com/wxn0brP/suglite)** – Lightweight process watcher with auto restarts  
+- **Lightweight developer utilities** 
 
 ## 📈 GitHub Stats
-![wxn0brP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wxn0brP&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxn0brP&layout=compact&theme=dark)
+<table>
+<tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=wxn0brP&show_icons=true&theme=dark" height="200" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxn0brP&layout=compact&theme=dark" height="200" /></td>
+</tr>
+</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wxn0brP&theme=github_dark" />
