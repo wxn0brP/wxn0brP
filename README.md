@@ -14,8 +14,8 @@ I create tools that are **simple, efficient, and give control back to the develo
 ## 📈 GitHub Stats
 <table>
 <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=wxn0brP&show_icons=true&theme=dark" height="200" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxn0brP&layout=compact&theme=dark" height="200" /></td>
+    <td><img src="https://github-readme-stats-ten-mu-73.vercel.app/api?username=wxn0brP&show_icons=true&theme=dark" height="200" /></td>
+    <td><img src="https://github-readme-stats-ten-mu-73.vercel.app/api/top-langs/?username=wxn0brP&layout=compact&theme=dark" height="200" /></td>
 </tr>
 </table>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wxn0brP&theme=github_dark" />
