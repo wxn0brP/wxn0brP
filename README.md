@@ -1,6 +1,7 @@
 # Hi there, I'm @wxn0brP! 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/wxn0brP)
+![](https://komarev.com/ghpvc/?username=wxn0brP&color=blueviolet)
 
 ## 🚀 About Me
 Hobbyist developer focused on building **lightweight, modular tools** with a preference for TypeScript/JavaScript. 
